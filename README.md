@@ -37,7 +37,8 @@ Learning advanced SQL window functions and predictive analytics for healthcare.
 www.linkedin.com/in/manasishidhaye
 
 🖥️ Portfolio Website
-[ (if you have one)](https://mshidhaye.github.io/)
+https://mshidhaye.github.io/
 
 📧 Email: manasishidhaye1@gmail.com
+
 
